@@ -1,1 +1,4 @@
-numpy, ipysheet
+matplotlib
+numpy
+pandas
+ipysheet
